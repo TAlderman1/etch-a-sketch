@@ -1,0 +1,21 @@
+body {
+    background-color: darkcyan;
+    text-align: center;
+}
+
+.gridProp {
+    background-color: lightcyan;
+}
+
+.rolledOver {
+    background-color: blueviolet;
+}
+
+#container {
+    display: grid;
+    justify-content: center;
+}
+
+#btnDiv {
+    margin: 15px auto;
+}
