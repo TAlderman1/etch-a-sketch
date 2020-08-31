@@ -8,4 +8,4 @@ This leaves the user with a "sketch" at the end of their session, which they can
 
 The user is also offered the ability to input the number of boxes/elements in the grid.  This will impact the size of the elements as they change color, however it will not effect the size of the grid overall.
 
-First project built from scratch with no help/tutorials.
+Built from scratch.
